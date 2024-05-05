@@ -1,0 +1,36 @@
+[{
+    "kategori": "Bilde",
+    "spørsmål": "Hva er hovedkomponenten i et digitalt bilde?",
+    "riktigSvar": "Piksel"
+},
+{
+    "kategori": "Bilde",
+    "spørsmål": "Hvilket system er vanlig for fargegjenlivelse i et bilde?",
+    "riktigSvar": "RGB"
+},
+{
+    "kategori": "Bilde",
+    "spørsmål": "Hvor mange primærfarger har vi?",
+    "riktigSvar": "3"
+},
+{
+    "kategori": "Video",
+    "spørsmål": "Hva står HD for på Norsk?",
+    "riktigSvar": "Høy oppløsning"
+},
+{
+    "kategori": "Video",
+    "spørsmål": "Hva gir en video høy kvalitet?",
+    "riktigSvar": "Antall bilder per sekund"
+},
+{
+    "kategori": "Lyd",
+    "spørsmål": "Hva var det første digitale lydproduktet som fikk utbredelse hos publikum?",
+    "riktigSvar": "CD plata"
+},
+{
+    "kategori": "Lyd",
+    "spørsmål": "Hvilket apparat kan ta opp lyd?",
+    "riktigSvar": "Mikrofon"
+}
+]
